@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./toronactaconvent00inteuoft_0367.png"; bbox 0 0 2086 3464; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 813 211 1892 252">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 813 211 1892 252">
+     <span class='ocr_line' id='line_1_1' title="bbox 813 211 1892 252; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 813 218 856 250; x_wconf 84' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_2' title='bbox 883 218 930 250; x_wconf 91' lang='lat' dir='ltr'>V.</span> <span class='ocrx_word' id='word_1_3' title='bbox 958 219 1173 252; x_wconf 82' lang='lat' dir='ltr'>GEORGE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1803 211 1892 251; x_wconf 77' lang='lat'>343</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 89 373 1899 481">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 89 373 1899 481">
+     <span class='ocr_line' id='line_1_2' title="bbox 89 373 1899 430; baseline 0.001 -16"><span class='ocrx_word' id='word_1_5' title='bbox 89 375 165 414; x_wconf 89' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_6' title='bbox 188 374 268 414; x_wconf 86' lang='lat' dir='ltr'>last</span> <span class='ocrx_word' id='word_1_7' title='bbox 289 374 412 414; x_wconf 91' lang='lat' dir='ltr'>week</span> <span class='ocrx_word' id='word_1_8' title='bbox 434 374 490 414; x_wconf 88' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_9' title='bbox 505 374 757 414; x_wconf 87' lang='lat' dir='ltr'>December</span> <span class='ocrx_word' id='word_1_10' title='bbox 782 373 894 414; x_wconf 90' lang='lat'>1517</span> <span class='ocrx_word' id='word_1_11' title='bbox 916 376 1020 426; x_wconf 85' lang='lat' dir='ltr'>(our</span> <span class='ocrx_word' id='word_1_12' title='bbox 1042 377 1166 430; x_wconf 84' lang='lat' dir='ltr'>style)</span> <span class='ocrx_word' id='word_1_13' title='bbox 1187 391 1233 416; x_wconf 89' lang='lat' dir='ltr'>as</span> <span class='ocrx_word' id='word_1_14' title='bbox 1254 376 1350 416; x_wconf 86' lang='lat' dir='ltr'>well</span> <span class='ocrx_word' id='word_1_15' title='bbox 1371 390 1417 416; x_wconf 90' lang='lat' dir='ltr'>as</span> <span class='ocrx_word' id='word_1_16' title='bbox 1439 384 1487 416; x_wconf 91' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_17' title='bbox 1514 376 1625 417; x_wconf 84' lang='lat'>1—24</span> <span class='ocrx_word' id='word_1_18' title='bbox 1647 376 1899 417; x_wconf 87' lang='lat' dir='ltr'>December</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 93 441 217 481; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 93 441 217 481; x_wconf 87' lang='lat'>1518.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1397 576 1898 631">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1397 576 1898 631">
+     <span class='ocr_line' id='line_1_4' title="bbox 1397 576 1898 631; baseline 0 -15"><span class='ocrx_word' id='word_1_20' title='bbox 1397 576 1523 616; x_wconf 64' lang='lat' dir='ltr'><em>Taas</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1546 576 1648 616; x_wconf 77' lang='lat' dir='ltr'>Tech</span> <span class='ocrx_word' id='word_1_22' title='bbox 1672 576 1898 631; x_wconf 79' lang='lat' dir='ltr'><em>University</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

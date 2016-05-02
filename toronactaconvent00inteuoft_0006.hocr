@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./toronactaconvent00inteuoft_0006.png"; bbox 0 0 2054 3288; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 592 658 1607 860">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 592 658 1607 860">
+     <span class='ocr_line' id='line_1_1' title="bbox 592 658 1607 726; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 592 658 963 726; x_wconf 68' lang='lat' dir='ltr'>meoneval</span> <span class='ocrx_word' id='word_1_2' title='bbox 1004 658 1066 724; x_wconf 60' lang='grc' dir='ltr'>ἀ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1105 668 1607 723; x_wconf 69' lang='lat' dir='ltr'><strong>nenalssanoe</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 773 790 1424 860; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 773 801 981 860; x_wconf 79' lang='lat' dir='ltr'>texts</span> <span class='ocrx_word' id='word_1_5' title='bbox 1025 793 1087 859; x_wconf 61' lang='grc' dir='ltr'>ευ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1126 790 1424 858; x_wconf 69' lang='lat' dir='ltr'><strong>§tumes</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 918 1412 1292 1470">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 918 1412 1292 1470">
+     <span class='ocr_line' id='line_1_3' title="bbox 918 1412 1292 1470; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 918 1417 1190 1470; x_wconf 83' lang='lat' dir='ltr'>VOLUME</span> <span class='ocrx_word' id='word_1_8' title='bbox 1222 1412 1292 1468; x_wconf 87' lang='grc'>86</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 915 2574 1348 2972">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 915 2574 1348 2972">
+     <span class='ocr_line' id='line_1_4' title="bbox 915 2574 1348 2972; baseline 0 316"><span class='ocrx_word' id='word_1_9' title='bbox 915 2574 1348 2972; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

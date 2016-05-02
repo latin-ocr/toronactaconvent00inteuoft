@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./toronactaconvent00inteuoft_0058.png"; bbox 0 0 2132 3510; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 222 201 277 240">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 222 201 277 240">
+     <span class='ocr_line' id='line_1_1' title="bbox 222 201 277 240; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 222 201 277 240; x_wconf 83' lang='lat'><strong>44</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 554 208 1700 243">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 554 208 1700 243">
+     <span class='ocr_line' id='line_1_2' title="bbox 554 208 1700 243; baseline 0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 554 208 711 240; x_wconf 87' lang='lat' dir='ltr'>LATIN</span> <span class='ocrx_word' id='word_1_3' title='bbox 736 209 789 241; x_wconf 93' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 818 209 1211 241; x_wconf 87' lang='lat' dir='ltr'><strong>16TH-CENTURY</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1236 210 1433 242; x_wconf 86' lang='lat' dir='ltr'>DANISH</span> <span class='ocrx_word' id='word_1_6' title='bbox 1459 211 1700 243; x_wconf 88' lang='lat' dir='ltr'>CULTURE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 354 578 1912 2790">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 354 578 1912 2790">
+     <span class='ocr_line' id='line_1_3' title="bbox 354 578 1912 2790; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 354 578 1912 2790; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 347 2990 1916 3107">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 347 2990 1916 3107">
+     <span class='ocr_line' id='line_1_4' title="bbox 347 2990 1916 3041; baseline -0.001 -13"><span class='ocrx_word' id='word_1_8' title='bbox 347 2992 421 3041; x_wconf 84' lang='lat' dir='ltr'><strong><em>Fig.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 444 2992 481 3028; x_wconf 91' lang='lat'><strong>2.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 500 2992 687 3041; x_wconf 88' lang='lat' dir='ltr'>Triptych</span> <span class='ocrx_word' id='word_1_11' title='bbox 707 2991 887 3041; x_wconf 88' lang='lat' dir='ltr'>painting</span> <span class='ocrx_word' id='word_1_12' title='bbox 903 2991 995 3026; x_wconf 76' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_13' title='bbox 1015 2991 1281 3027; x_wconf 80' lang='lat' dir='ltr'>resurrection</span> <span class='ocrx_word' id='word_1_14' title='bbox 1299 3003 1419 3027; x_wconf 90' lang='lat' dir='ltr'><strong>scene</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1438 2991 1519 3026; x_wconf 88' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1537 2990 1701 3026; x_wconf 91' lang='lat' dir='ltr'>donors’</span> <span class='ocrx_word' id='word_1_17' title='bbox 1720 2990 1916 3039; x_wconf 73' lang='lat' dir='ltr'>portmits.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 840 3058 1427 3107; baseline 0 -14"><span class='ocrx_word' id='word_1_18' title='bbox 840 3058 969 3093; x_wconf 88' lang='lat' dir='ltr'>Photo</span> <span class='ocrx_word' id='word_1_19' title='bbox 986 3060 1037 3106; x_wconf 92' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1055 3058 1211 3093; x_wconf 81' lang='lat' dir='ltr'>Kirsten</span> <span class='ocrx_word' id='word_1_21' title='bbox 1230 3058 1427 3107; x_wconf 84' lang='lat' dir='ltr'>Nijkamp.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
